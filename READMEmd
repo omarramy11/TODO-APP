@@ -12,3 +12,21 @@ To start the local server on localhost:3000 then run the command
 ```
 npm run start
 ```
+
+_________
+tools :
+
+Node.js 🟢
+
+Express.js 🚀
+
+MongoDB 🍃
+
+Docker 🐳
+
+Features ✨
+✅ Create, Read, Update, Delete tasks
+✅ User Authentication (Register & Login) 🔐
+✅ RESTful API for frontend/mobile apps 📱
+✅ Dockerized for easy setup 🐳
+
